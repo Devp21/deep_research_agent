@@ -5,28 +5,25 @@ This agent takes a research topic, performs a search, fact-checks results, lists
 
 ---
 
-## 🛠️ Setup Instructions
+Setup Instructions 🛠️
+If you want to run it locally, here’s what you need to do:
 
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/Devp21/deep_research_agent.git
+Clone the repo:
+bash
+git clone https://github.com/yourusername/deep_research_agent.git
 cd deep_research_agent
----
-2. **Create a virtual environment**
 
-```bash
+(Optional) Create a virtual environment:
+bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
-3. **Install the Python packages**
-
-```bash
+Install the Python packages:
+bash
 pip install -r requirements.txt
 
-4. **Install the Python packages**
+Set up your API keys:
 Create a .env file in the project folder and add:
-
-```dotenv
+dotenv
 GROQ_API_KEY=your-groq-api-key
 TAVILY_API_KEY=your-tavily-api-key
