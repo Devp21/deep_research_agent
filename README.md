@@ -12,7 +12,7 @@ This agent takes a research topic, performs a search, fact-checks results, lists
 ```bash
 git clone https://github.com/Devp21/deep_research_agent.git
 cd deep_research_agent
-
+---
 2. **Create a virtual environment**
 
 ```bash
