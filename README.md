@@ -1,2 +1,14 @@
-# deep_research_agent
-An agentic ai application using fundamentals of langchain integrated with langgraph helping out research based tasks but searching the web , validating the information and summarizing it in a report form 
+# Deep Research Agent System
+
+An **autonomous research agent** built using **LangChain**, **LangGraph**, and **Groq LLMs**.  
+This agent takes a research topic, performs a search, fact-checks results, lists sources, and drafts a structured, human-like answer.
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/yourusername/deep_research_agent.git
+cd deep_research_agent
