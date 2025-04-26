@@ -10,5 +10,5 @@ This agent takes a research topic, performs a search, fact-checks results, lists
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/deep_research_agent.git
+git clone https://github.com/Devp21/deep_research_agent.git
 cd deep_research_agent
